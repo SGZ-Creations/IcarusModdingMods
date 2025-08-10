@@ -1,1 +1,45 @@
-"Name": "IO_Undersuit_Tier2", Localized = XIGO S5-II Enviorsuit
+Made with Week 192
+
+
+Name: IO_Undersuit_Tier2
+Localized: XIGO S5-II Enviorsuit
+
+
+Name: IO_Undersuit_Tier3
+Localized: XIGO S5-X Enviorsuit
+
+
+Name: IO_Undersuit_Tier4
+Localized: XIGO "GUSTAV" Enviorsuit
+
+
+Name: IO_Undersuit_Tier5
+Localized: XIGO "Duo" S5 Enviorsuit
+
+
+Name: IO_Undersuit_Tier6
+Localized: XIGO "HARK" S5 Enviorsuit
+
+
+Name: IO_Undersuit_Tier7
+Localized: XIGO "FERMI" S5 Enviorsuit
+
+
+Name: Inaris_Envirosuit_Alpha
+Localized = Inaris "Lua" Envirosuit
+
+
+Name: Undersuit_Shengong
+Localized = Shengong "BIHU" Envirosuit
+
+
+Name: Undersuit_Shengong 2
+Localized = Shengong "DONGTIAN" Envirosuit
+
+
+Name: Undersuit_Larkwell_Bravo
+Localized = Larkwell "BULWARK" Envirosuit
+
+
+Name: Undersuit_Larkwell_Alpha
+Localized = Larkwell "HAULER" Envirosuit
